@@ -2,7 +2,7 @@
 
 1. Setup a Kubernetes Cluster (EKS, AKS or GKE or Local)
 
-2. Ensure kubectl is installed.
+2. Ensure `kubectl` is installed.
 
 3. Ensure that the kubeconfig file is located in the `.kube/config` path for authentication and authorization of every `kubectl` request.
 
